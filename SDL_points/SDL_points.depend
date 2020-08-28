@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1597885948 source:/home/matheus/compGraf/SDL_points/main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<SDL2/SDL.h>
+	<stack>
+	<sstream>
+	<unistd.h>
+

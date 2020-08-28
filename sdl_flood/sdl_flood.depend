@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1598625030 source:/home/matheus/compGraf/sdl_flood/main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<SDL2/SDL.h>
+	<stack>
+	<sstream>
+	<unistd.h>
+

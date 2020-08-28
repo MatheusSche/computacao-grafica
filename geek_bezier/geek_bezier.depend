@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1598489890 source:/home/matheus/compGraf/geek_bezier/main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<SDL2/SDL.h>
+

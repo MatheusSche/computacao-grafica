@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1598488346 source:/home/matheus/compGraf/sdl_circle/main.cpp
+	<SDL2/SDL.h>
+	<stdio.h>
+	<functional>
+	<algorithm>
+	<utility>
+

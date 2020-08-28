@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1598634841 source:/home/matheus/compGraf/sdl_heart/main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<SDL2/SDL.h>
+	<stack>
+	<sstream>
+	<unistd.h>
+
